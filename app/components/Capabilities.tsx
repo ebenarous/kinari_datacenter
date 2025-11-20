@@ -28,7 +28,7 @@ const Capabilities: React.FC = () => {
               Universal Context Ingestion
             </h3>
             <p className="text-zinc-400 leading-relaxed group-hover:text-zinc-300 transition-colors">
-              The system digests unstructured data - PDFs, AMMs, technical drawings, or images. It breaks complex documentation down into digestible, actionable steps, creating an instant SOP tailored for the field.
+              The system digests unstructured data - PDFs, OEM Manuals, wiring schematics, or images. It breaks complex documentation down into digestible, actionable steps, creating an instant SOP tailored for the server floor.
             </p>
           </div>
 
